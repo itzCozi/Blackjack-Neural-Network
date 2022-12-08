@@ -9,9 +9,11 @@ QUICK RUN DIRECTIONS
 If this did not work make a new issue.
 ----------------------------
 
-Know Errors
+KNOWN ERRORS
 ----------------------------
 Overflow may be encountered!
 Divison error means code malfunction
 ANY OTHER ERRORS NEED A NEW ISSUE.
 ----------------------------
+
+Please do not take all of my code, you are welcome to take snippets and methods any voilation of this is mean and don't do it please.
